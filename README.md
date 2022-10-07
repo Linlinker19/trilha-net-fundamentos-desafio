@@ -1,5 +1,4 @@
-# DIO - Trilha .NET - Fundamentos
-www.dio.me
+# Sistema de Estacionamento com cobrança de horas
 
 ## Desafio de projeto
 Implementação dos conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
